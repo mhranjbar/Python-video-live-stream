@@ -9,4 +9,4 @@ By using these codes, you can send live video stream from webcam in the client-s
 2- Run the "client.py".
 
 - Be sure that the webcam works correctly.
-- If you have an external webcam or more than one webcam, change the number of "cap = cv2.VideoCapture(0)" from "0" to "1" or any number of your arbitrary webcam.
+- If you have an external webcam or more than one webcam, change the number of "cap = cv2.VideoCapture(0)" from "0" to "1" or any number of your arbitrary webcam in "client.py".
