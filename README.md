@@ -5,6 +5,7 @@ By using these codes, you can send live video stream from webcam in the client-s
 
 # How it works?
 1- Run the "server.py".
+
 2- Run the "client.py".
 
 - Be sure that the webcam works correctly.
